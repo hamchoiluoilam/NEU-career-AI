@@ -1,0 +1,3 @@
+Trích xuất thông tin ứng viên (họ tên, email, SĐT, học vấn, kỹ năng, kinh nghiệm) từ nội dung CV dưới đây về định dạng JSON:
+
+{{raw_cv_text}}

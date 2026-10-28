@@ -1,0 +1,4 @@
+Đánh giá câu trả lời phỏng vấn theo mô hình STAR (thang điểm 0-10) và đặt câu hỏi tiếp theo cho vị trí {{target_role}}:
+
+Câu hỏi: {{question}}
+Câu trả lời: {{user_answer}}

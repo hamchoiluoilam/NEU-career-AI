@@ -1,0 +1,4 @@
+Phân tích khoảng cách kỹ năng (Skill Gap) giữa ứng viên và yêu cầu tuyển dụng về định dạng JSON:
+
+Kỹ năng ứng viên: {{candidate_skills}}
+Mô tả công việc: {{job_description}}
