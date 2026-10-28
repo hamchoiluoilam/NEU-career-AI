@@ -1,0 +1,10 @@
+# Phụ thuộc cho thử nghiệm AI (Jupyter, đánh giá thuật toán).
+# Backend KHÔNG cần file này, backend dùng backend/requirements.txt.
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
+google-genai>=0.1.0
+
+# Chỉ bỏ comment dòng dưới khi thật sự dùng embedding (rất nặng, kéo theo PyTorch):
+# sentence-transformers>=2.2.0
